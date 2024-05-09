@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfW2a3IkPghNDnKrmFrJykniHgnItNJMRy+PODMnRgvmJB/FYxPW9gbSy0mrqgW21DEIdS4ojC+PXvs9s/PSFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Reddit_Demo\\RadditProject\\Redditproject\\RadditProject\\RadditProject.Services\\RadditProject.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

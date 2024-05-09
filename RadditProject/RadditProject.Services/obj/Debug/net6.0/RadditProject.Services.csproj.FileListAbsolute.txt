@@ -1,0 +1,24 @@
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.deps.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.pdb
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.csproj.AssemblyReference.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.AssemblyInfoInputs.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.AssemblyInfo.cs
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.csproj.CoreCompileInputs.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\refint\RadditProject.Services.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.pdb
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\ref\RadditProject.Services.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.deps.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\bin\Debug\net6.0\RadditProject.Services.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.csproj.AssemblyReference.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.AssemblyInfoInputs.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.AssemblyInfo.cs
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.csproj.CoreCompileInputs.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\refint\RadditProject.Services.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\RadditProject.Services.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject.Services\obj\Debug\net6.0\ref\RadditProject.Services.dll

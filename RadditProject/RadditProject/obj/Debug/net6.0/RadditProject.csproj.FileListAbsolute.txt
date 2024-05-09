@@ -1,0 +1,118 @@
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.exe
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.deps.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.runtimeconfig.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.pdb
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.AssemblyReference.cache
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfoInputs.cache
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfo.cs
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.RadditProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.build.RadditProject.props
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RadditProject.props
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RadditProject.props
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\scopedcss\bundle\RadditProject.styles.css
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditPr.72624662.Up2Date
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\refint\RadditProject.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.pdb
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.genruntimeconfig.cache
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\obj\Debug\net6.0\ref\RadditProject.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bhanu\source\repos\RadditProject\RadditProject\bin\Debug\net6.0\Reddit.NET.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.Development.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.exe
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.deps.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.runtimeconfig.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.pdb
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Reddit.NET.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RestSharp.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.AssemblyReference.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfoInputs.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfo.cs
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.CoreCompileInputs.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cs
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.RadditProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.build.RadditProject.props
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RadditProject.props
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RadditProject.props
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\scopedcss\bundle\RadditProject.styles.css
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.CopyComplete
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\refint\RadditProject.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.pdb
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.genruntimeconfig.cache
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\ref\RadditProject.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.Services.dll
+D:\My_Development\Clients\Jose Inga\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.Services.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\appsettings.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.exe
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.deps.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.runtimeconfig.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Reddit.NET.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RestSharp.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\System.Text.Json.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.Services.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\bin\Debug\net6.0\RadditProject.Services.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.AssemblyReference.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfoInputs.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.AssemblyInfo.cs
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.csproj.CoreCompileInputs.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.RadditProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.build.RadditProject.props
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RadditProject.props
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RadditProject.props
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\scopedcss\bundle\RadditProject.styles.css
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditPr.72624662.Up2Date
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\refint\RadditProject.dll
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.pdb
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\RadditProject.genruntimeconfig.cache
+D:\Reddit_Demo\RadditProject\RadditProject\RadditProject\obj\Debug\net6.0\ref\RadditProject.dll
